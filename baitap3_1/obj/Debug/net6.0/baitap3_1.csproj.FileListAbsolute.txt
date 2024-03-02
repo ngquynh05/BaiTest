@@ -1,0 +1,15 @@
+C:\hoc_laptrinh\baitap3_1\baitap3_1\bin\Debug\net6.0\baitap3_1.exe
+C:\hoc_laptrinh\baitap3_1\baitap3_1\bin\Debug\net6.0\baitap3_1.deps.json
+C:\hoc_laptrinh\baitap3_1\baitap3_1\bin\Debug\net6.0\baitap3_1.runtimeconfig.json
+C:\hoc_laptrinh\baitap3_1\baitap3_1\bin\Debug\net6.0\baitap3_1.dll
+C:\hoc_laptrinh\baitap3_1\baitap3_1\bin\Debug\net6.0\baitap3_1.pdb
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\baitap3_1.csproj.AssemblyReference.cache
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\baitap3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\baitap3_1.AssemblyInfoInputs.cache
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\baitap3_1.AssemblyInfo.cs
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\baitap3_1.csproj.CoreCompileInputs.cache
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\baitap3_1.dll
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\refint\baitap3_1.dll
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\baitap3_1.pdb
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\baitap3_1.genruntimeconfig.cache
+C:\hoc_laptrinh\baitap3_1\baitap3_1\obj\Debug\net6.0\ref\baitap3_1.dll
